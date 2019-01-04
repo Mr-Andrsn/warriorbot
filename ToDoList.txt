@@ -1,0 +1,20 @@
+Commands to be implemented
+
+wb!quote - will return a random quote from an array of options
+
+wb!workout - will compile and return a workout from multiple arrays
+
+
+Some warriormale quotes:
+
+Manhood matters above all else.
+
+We are Warrior Men perfecting our Manhood by fighting each other constantly.
+
+Warriors love Manliness.
+
+Every Man must be Warlike and Martial.
+
+Fighting produces the Love of Manliness.
+
+Eros is very strong and must be let free.

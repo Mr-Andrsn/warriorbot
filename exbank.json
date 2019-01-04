@@ -1,0 +1,23 @@
+{
+
+"exercise1": ["Squats", "Jumping Jacks", "Push-Ups", "Star Jumps"],
+"exercise2": ["Pull-Ups", "Toe Touches", "Mountain Climbers", "Uppercuts"],
+"exercise3": ["Front Kicks", "Punches", "Sit-Ups", "Side Kicks"],
+
+"arms1": ["1", "2", "3", "4"],
+"arms2": ["1", "2", "3", "4"],
+"arms3": ["1", "2", "3", "4"],
+
+"chest1": ["1", "2", "3", "4"],
+"chest2": ["1", "2", "3", "4"],
+"chest3": ["1", "2", "3", "4"],
+
+"legs1": ["1", "2", "3", "4"],
+"legs2": ["1", "2", "3", "4"],
+"legs3": ["1", "2", "3", "4"],
+
+"back1": ["1", "2", "3", "4"],
+"back2": ["1", "2", "3", "4"],
+"back3": ["1", "2", "3", "4"]
+
+}
